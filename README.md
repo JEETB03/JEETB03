@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...Technology
 - 🌱 I’m currently learning ...Cyber security and Digital forensics
 - 💞️ I’m looking to chat on ...Discord
+- 📫 How to reach me ...jeetkpa2003@gmail.com
 
 
 <!---
