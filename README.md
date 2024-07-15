@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @JEETB03
 - 👀 I’m interested in ...Technology
-- 🌱 I’m currently learning ...Cyber security and Digital forensics
+- 🌱 I’m currently learning ...Cyber security and Digital forensics, Fullsatck Web Development, Python, etc
+
+- 👨🏻‍💻 Technologies learned --> Python, HTML, CSS, JavaScript, React JS, JQuery, EJS, Mongo DB, Express JS, Node JS, Kali Linux Tools
+
+- 
 - 💞️ I’m looking to chat on ...Discord
 - 📫 How to reach me --> jeetkpa2003@gmail.com
 
